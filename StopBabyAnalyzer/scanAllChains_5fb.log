@@ -1,0 +1,1372 @@
+Loading FW Lite setup.
+
+Processing scanAllChains.C...
+Info in <TUnixSystem::ACLiC>: creating shared library /home/users/jgwood/Stop_1Lepton/CMSSW_7_4_1_patch1/src/StopAnalysis/StopBabyAnalyzer/./stopBabyLooper_C.so
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__stop_850_100.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 32272
+    nEvents Pass >1 Vertex (wgt)         = 32272 (29.7512),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 29165 (26.8869),  Eff = 0.903725
+    nEvents Pass 1 Selected Lepton (wgt) = 26044 (24.0096),  Eff = 0.892988
+                     nMuons (wgt)        = 14606 (13.4651)
+                     nElectrons (wgt)    = 11438 (10.5446)
+    nEvents Pass 0 Veto Leptons (wgt)    = 23866 (22.0018),  Eff = 0.916372
+    nEvents Pass Track Veto (wgt)        = 22443 (20.6899),  Eff = 0.940375
+    nEvents Pass Tau Veto (wgt)          = 21945 (20.2308),  Eff = 0.97781
+    nEvents Pass >=4 Selected Jets (wgt) = 14786 (13.631),  Eff = 0.673775
+    nEvents Pass >=1 BTagged Jets (wgt)  = 12469 (11.495),  Eff = 0.843298
+    nEvents Pass Met>200.0 (wgt)         = 10381 (9.57012),  Eff = 0.832545
+    nEvents Pass MT>150.0 (wgt)          = 8851 (8.15963),  Eff = 0.852615
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 7862 (7.24788),  Eff = 0.888261
+
+    nEvents Pass Baseline (wgt)          = 7862 (7.24788)
+                    nMuons (wgt)         = 4350 (4.01021)
+                    nElectrons (wgt)     = 3512 (3.23767)
+
+                    n_0lep (wgt)         = 44 (0.0405631)
+                    n_1lep (wgt)         = 7242 (6.67631)
+                    n_2lep (wgt)         = 576 (0.531007)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+32272 Events Processed
+------------------------------
+CPU  Time:	0.8
+Real Time:	2.5
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__stop_650_325.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 31813
+    nEvents Pass >1 Vertex (wgt)         = 31813 (161.132),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 28811 (145.927),  Eff = 0.905636
+    nEvents Pass 1 Selected Lepton (wgt) = 23877 (120.936),  Eff = 0.828746
+                     nMuons (wgt)        = 13753 (69.6585)
+                     nElectrons (wgt)    = 10124 (51.2777)
+    nEvents Pass 0 Veto Leptons (wgt)    = 21643 (109.621),  Eff = 0.906437
+    nEvents Pass Track Veto (wgt)        = 20252 (102.576),  Eff = 0.93573
+    nEvents Pass Tau Veto (wgt)          = 19602 (99.2834),  Eff = 0.967904
+    nEvents Pass >=4 Selected Jets (wgt) = 12699 (64.32),  Eff = 0.647842
+    nEvents Pass >=1 BTagged Jets (wgt)  = 10855 (54.9802),  Eff = 0.854792
+    nEvents Pass Met>200.0 (wgt)         = 6533 (33.0894),  Eff = 0.601842
+    nEvents Pass MT>150.0 (wgt)          = 4781 (24.2156),  Eff = 0.731823
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 4189 (21.2171),  Eff = 0.876177
+
+    nEvents Pass Baseline (wgt)          = 4189 (21.2171)
+                    nMuons (wgt)         = 2346 (11.8824)
+                    nElectrons (wgt)     = 1843 (9.33473)
+
+                    n_0lep (wgt)         = 19 (0.0962343)
+                    n_1lep (wgt)         = 3894 (19.723)
+                    n_2lep (wgt)         = 276 (1.39793)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+31813 Events Processed
+------------------------------
+CPU  Time:	0.4
+Real Time:	1.3
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__stop_500_325.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 28971
+    nEvents Pass >1 Vertex (wgt)         = 28971 (685.316),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 26409 (624.711),  Eff = 0.911567
+    nEvents Pass 1 Selected Lepton (wgt) = 19245 (455.245),  Eff = 0.728729
+                     nMuons (wgt)        = 11699 (276.743)
+                     nElectrons (wgt)    = 7546 (178.502)
+    nEvents Pass 0 Veto Leptons (wgt)    = 17193 (406.704),  Eff = 0.893375
+    nEvents Pass Track Veto (wgt)        = 15996 (378.389),  Eff = 0.930379
+    nEvents Pass Tau Veto (wgt)          = 15451 (365.497),  Eff = 0.965929
+    nEvents Pass >=4 Selected Jets (wgt) = 9194 (217.486),  Eff = 0.595042
+    nEvents Pass >=1 BTagged Jets (wgt)  = 7766 (183.706),  Eff = 0.844681
+    nEvents Pass Met>200.0 (wgt)         = 2044 (48.3513),  Eff = 0.263199
+    nEvents Pass MT>150.0 (wgt)          = 787 (18.6167),  Eff = 0.385029
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 529 (12.5136),  Eff = 0.672173
+
+    nEvents Pass Baseline (wgt)          = 529 (12.5136)
+                    nMuons (wgt)         = 305 (7.21484)
+                    nElectrons (wgt)     = 224 (5.29877)
+
+                    n_0lep (wgt)         = 3 (0.0709657)
+                    n_1lep (wgt)         = 452 (10.6922)
+                    n_2lep (wgt)         = 74 (1.75049)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+28971 Events Processed
+------------------------------
+CPU  Time:	0.4
+Real Time:	1.2
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__stop_425_325.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 245806
+    nEvents Pass >1 Vertex (wgt)         = 245806 (1551.55),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 229216 (1446.83),  Eff = 0.932508
+    nEvents Pass 1 Selected Lepton (wgt) = 160683 (1014.25),  Eff = 0.701011
+                     nMuons (wgt)        = 99659 (629.056)
+                     nElectrons (wgt)    = 61024 (385.189)
+    nEvents Pass 0 Veto Leptons (wgt)    = 145290 (917.083),  Eff = 0.904203
+    nEvents Pass Track Veto (wgt)        = 135930 (858.002),  Eff = 0.935577
+    nEvents Pass Tau Veto (wgt)          = 132354 (835.43),  Eff = 0.973692
+    nEvents Pass >=4 Selected Jets (wgt) = 32203 (203.268),  Eff = 0.24331
+    nEvents Pass >=1 BTagged Jets (wgt)  = 10752 (67.8676),  Eff = 0.333882
+    nEvents Pass Met>200.0 (wgt)         = 4596 (29.0104),  Eff = 0.427455
+    nEvents Pass MT>150.0 (wgt)          = 2053 (12.9587),  Eff = 0.446693
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1571 (9.91629),  Eff = 0.765222
+
+    nEvents Pass Baseline (wgt)          = 1571 (9.91629)
+                    nMuons (wgt)         = 963 (6.07854)
+                    nElectrons (wgt)     = 608 (3.83775)
+
+                    n_0lep (wgt)         = 1571 (9.91629)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+245806 Events Processed
+------------------------------
+CPU  Time:	1.4
+Real Time:	9.4
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__T6bbWW_mStop425_mCh400_mLSP50_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 406382
+    nEvents Pass >1 Vertex (wgt)         = 406382 (2466.27),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 362751 (2201.48),  Eff = 0.892636
+    nEvents Pass 1 Selected Lepton (wgt) = 342579 (2079.06),  Eff = 0.944392
+                     nMuons (wgt)        = 185840 (1127.83)
+                     nElectrons (wgt)    = 156739 (951.223)
+    nEvents Pass 0 Veto Leptons (wgt)    = 309185 (1876.39),  Eff = 0.902522
+    nEvents Pass Track Veto (wgt)        = 289610 (1757.6),  Eff = 0.936688
+    nEvents Pass Tau Veto (wgt)          = 281945 (1711.08),  Eff = 0.973533
+    nEvents Pass >=4 Selected Jets (wgt) = 114325 (693.819),  Eff = 0.405487
+    nEvents Pass >=1 BTagged Jets (wgt)  = 52964 (321.43),  Eff = 0.463276
+    nEvents Pass Met>200.0 (wgt)         = 27544 (167.16),  Eff = 0.520051
+    nEvents Pass MT>150.0 (wgt)          = 20937 (127.063),  Eff = 0.760129
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 17115 (103.868),  Eff = 0.817452
+
+    nEvents Pass Baseline (wgt)          = 17115 (103.868)
+                    nMuons (wgt)         = 9192 (55.7847)
+                    nElectrons (wgt)     = 7923 (48.0834)
+
+                    n_0lep (wgt)         = 39 (0.236685)
+                    n_1lep (wgt)         = 16467 (99.9355)
+                    n_2lep (wgt)         = 609 (3.69592)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+406382 Events Processed
+------------------------------
+CPU  Time:	5.8
+Real Time:	16.6
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__ttbar_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 4463480
+    nEvents Pass >1 Vertex (wgt)         = 4463480 (932824),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 4088378 (854431),  Eff = 0.915962
+    nEvents Pass 1 Selected Lepton (wgt) = 2991499 (625194),  Eff = 0.731708
+                     nMuons (wgt)        = 1797471 (375654)
+                     nElectrons (wgt)    = 1194028 (249540)
+    nEvents Pass 0 Veto Leptons (wgt)    = 2678751 (559833),  Eff = 0.895454
+    nEvents Pass Track Veto (wgt)        = 2499781 (522430),  Eff = 0.933189
+    nEvents Pass Tau Veto (wgt)          = 2399268 (501423),  Eff = 0.959791
+    nEvents Pass >=4 Selected Jets (wgt) = 947174 (197950),  Eff = 0.394776
+    nEvents Pass >=1 BTagged Jets (wgt)  = 773103 (161571),  Eff = 0.816221
+    nEvents Pass Met>200.0 (wgt)         = 21904 (4577.72),  Eff = 0.0283326
+    nEvents Pass MT>150.0 (wgt)          = 1302 (272.105),  Eff = 0.0594412
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 764 (159.668),  Eff = 0.58679
+
+    nEvents Pass Baseline (wgt)          = 764 (159.668)
+                    nMuons (wgt)         = 425 (88.8208)
+                    nElectrons (wgt)     = 339 (70.8477)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 44 (9.19557)
+                    n_2lep (wgt)         = 720 (150.473)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+4463480 Events Processed
+------------------------------
+CPU  Time:	60.3
+Real Time:	175.9
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__DYJetsToLL_m50_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 1727607
+    nEvents Pass >1 Vertex (wgt)         = 1727607 (1.2418e+06),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 1180187 (875349),  Eff = 0.683134
+    nEvents Pass 1 Selected Lepton (wgt) = 753665 (538749),  Eff = 0.638598
+                     nMuons (wgt)        = 426921 (292576)
+                     nElectrons (wgt)    = 326744 (246172)
+    nEvents Pass 0 Veto Leptons (wgt)    = 511509 (379454),  Eff = 0.678695
+    nEvents Pass Track Veto (wgt)        = 462294 (337855),  Eff = 0.903785
+    nEvents Pass Tau Veto (wgt)          = 401715 (277881),  Eff = 0.86896
+    nEvents Pass >=4 Selected Jets (wgt) = 7370 (4096.55),  Eff = 0.0183463
+    nEvents Pass >=1 BTagged Jets (wgt)  = 1224 (685.92),  Eff = 0.166079
+    nEvents Pass Met>200.0 (wgt)         = 26 (3.16092),  Eff = 0.0212418
+    nEvents Pass MT>150.0 (wgt)          = 4 (-6.32184),  Eff = 0.153846
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1 (-1.58046),  Eff = 0.25
+
+    nEvents Pass Baseline (wgt)          = 1 (-1.58046)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 1 (-1.58046)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 1 (-1.58046)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+1727607 Events Processed
+------------------------------
+CPU  Time:	19.3
+Real Time:	68.0
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__DYJetsToLL_m10to50_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 83692
+    nEvents Pass >1 Vertex (wgt)         = 83692 (161679),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 74329 (145459),  Eff = 0.888126
+    nEvents Pass 1 Selected Lepton (wgt) = 34182 (65100.5),  Eff = 0.459874
+                     nMuons (wgt)        = 22870 (44168.2)
+                     nElectrons (wgt)    = 11312 (20932.4)
+    nEvents Pass 0 Veto Leptons (wgt)    = 17885 (34623.4),  Eff = 0.523229
+    nEvents Pass Track Veto (wgt)        = 17308 (33404.7),  Eff = 0.967738
+    nEvents Pass Tau Veto (wgt)          = 16989 (32847.6),  Eff = 0.981569
+    nEvents Pass >=4 Selected Jets (wgt) = 306 (460.696),  Eff = 0.0180117
+    nEvents Pass >=1 BTagged Jets (wgt)  = 51 (71.1985),  Eff = 0.166667
+    nEvents Pass Met>200.0 (wgt)         = 1 (4.18815),  Eff = 0.0196078
+    nEvents Pass MT>150.0 (wgt)          = 0 (0),  Eff = 0
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 0 (0),  Eff = -nan
+
+    nEvents Pass Baseline (wgt)          = 0 (0)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 0 (0)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+83692 Events Processed
+------------------------------
+CPU  Time:	1.4
+Real Time:	4.5
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WJetsToLNu_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 1280946
+    nEvents Pass >1 Vertex (wgt)         = 1280946 (1.02515e+07),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 1280684 (1.02491e+07),  Eff = 0.999795
+    nEvents Pass 1 Selected Lepton (wgt) = 808917 (6.40754e+06),  Eff = 0.631629
+                     nMuons (wgt)        = 515740 (4.10852e+06)
+                     nElectrons (wgt)    = 293177 (2.29902e+06)
+    nEvents Pass 0 Veto Leptons (wgt)    = 804638 (6.3795e+06),  Eff = 0.99471
+    nEvents Pass Track Veto (wgt)        = 783425 (6.21568e+06),  Eff = 0.973637
+    nEvents Pass Tau Veto (wgt)          = 775134 (6.14808e+06),  Eff = 0.989417
+    nEvents Pass >=4 Selected Jets (wgt) = 11068 (68393.5),  Eff = 0.0142788
+    nEvents Pass >=1 BTagged Jets (wgt)  = 1583 (9693.42),  Eff = 0.143025
+    nEvents Pass Met>200.0 (wgt)         = 70 (446.53),  Eff = 0.0442198
+    nEvents Pass MT>150.0 (wgt)          = 1 (18.6054),  Eff = 0.0142857
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1 (18.6054),  Eff = 1
+
+    nEvents Pass Baseline (wgt)          = 1 (18.6054)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 1 (18.6054)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 1 (18.6054)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+1280946 Events Processed
+------------------------------
+CPU  Time:	14.4
+Real Time:	45.4
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WJetsToLNu_HT100To200_madgraph_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 2341719
+    nEvents Pass >1 Vertex (wgt)         = 2341719 (1.49154e+06),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 2341105 (1.49115e+06),  Eff = 0.999738
+    nEvents Pass 1 Selected Lepton (wgt) = 1618958 (1.03118e+06),  Eff = 0.691536
+                     nMuons (wgt)        = 995093 (633818)
+                     nElectrons (wgt)    = 623865 (397367)
+    nEvents Pass 0 Veto Leptons (wgt)    = 1608975 (1.02483e+06),  Eff = 0.993834
+    nEvents Pass Track Veto (wgt)        = 1566380 (997696),  Eff = 0.973527
+    nEvents Pass Tau Veto (wgt)          = 1552103 (988602),  Eff = 0.990885
+    nEvents Pass >=4 Selected Jets (wgt) = 8697 (5539.5),  Eff = 0.00560337
+    nEvents Pass >=1 BTagged Jets (wgt)  = 1022 (650.956),  Eff = 0.117512
+    nEvents Pass Met>200.0 (wgt)         = 1 (0.636944),  Eff = 0.000978474
+    nEvents Pass MT>150.0 (wgt)          = 1 (0.636944),  Eff = 1
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1 (0.636944),  Eff = 1
+
+    nEvents Pass Baseline (wgt)          = 1 (0.636944)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 1 (0.636944)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 1 (0.636944)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+2341719 Events Processed
+------------------------------
+CPU  Time:	24.4
+Real Time:	60.1
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WJetsToLNu_HT200To400_madgraph_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 1467467
+    nEvents Pass >1 Vertex (wgt)         = 1467467 (541199),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 1466571 (540869),  Eff = 0.999389
+    nEvents Pass 1 Selected Lepton (wgt) = 1101264 (406144),  Eff = 0.750911
+                     nMuons (wgt)        = 654089 (241227)
+                     nElectrons (wgt)    = 447175 (164917)
+    nEvents Pass 0 Veto Leptons (wgt)    = 1090603 (402213),  Eff = 0.990319
+    nEvents Pass Track Veto (wgt)        = 1062474 (391839),  Eff = 0.974208
+    nEvents Pass Tau Veto (wgt)          = 1054320 (388832),  Eff = 0.992325
+    nEvents Pass >=4 Selected Jets (wgt) = 89926 (33164.6),  Eff = 0.0852929
+    nEvents Pass >=1 BTagged Jets (wgt)  = 11704 (4316.42),  Eff = 0.130151
+    nEvents Pass Met>200.0 (wgt)         = 178 (65.6461),  Eff = 0.0152085
+    nEvents Pass MT>150.0 (wgt)          = 8 (2.95039),  Eff = 0.0449438
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 8 (2.95039),  Eff = 1
+
+    nEvents Pass Baseline (wgt)          = 8 (2.95039)
+                    nMuons (wgt)         = 5 (1.84399)
+                    nElectrons (wgt)     = 3 (1.1064)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 8 (2.95039)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+1467467 Events Processed
+------------------------------
+CPU  Time:	18.2
+Real Time:	70.1
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WJetsToLNu_HT400To600_madgraph_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 613730
+    nEvents Pass >1 Vertex (wgt)         = 613730 (77292.9),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 613014 (77202.7),  Eff = 0.998833
+    nEvents Pass 1 Selected Lepton (wgt) = 488147 (61477),  Eff = 0.796306
+                     nMuons (wgt)        = 283601 (35716.6)
+                     nElectrons (wgt)    = 204546 (25760.4)
+    nEvents Pass 0 Veto Leptons (wgt)    = 481587 (60650.9),  Eff = 0.986561
+    nEvents Pass Track Veto (wgt)        = 470510 (59255.8),  Eff = 0.976999
+    nEvents Pass Tau Veto (wgt)          = 467650 (58895.7),  Eff = 0.993921
+    nEvents Pass >=4 Selected Jets (wgt) = 128491 (16182.1),  Eff = 0.274759
+    nEvents Pass >=1 BTagged Jets (wgt)  = 19780 (2491.09),  Eff = 0.153941
+    nEvents Pass Met>200.0 (wgt)         = 1267 (159.565),  Eff = 0.0640546
+    nEvents Pass MT>150.0 (wgt)          = 23 (2.89661),  Eff = 0.0181531
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 21 (2.64473),  Eff = 0.913043
+
+    nEvents Pass Baseline (wgt)          = 21 (2.64473)
+                    nMuons (wgt)         = 10 (1.2594)
+                    nElectrons (wgt)     = 11 (1.38534)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 21 (2.64473)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+613730 Events Processed
+------------------------------
+CPU  Time:	7.7
+Real Time:	29.8
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WJetsToLNu_HT600ToInf_madgraph_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 373293
+    nEvents Pass >1 Vertex (wgt)         = 373293 (35848.2),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 372683 (35789.7),  Eff = 0.998366
+    nEvents Pass 1 Selected Lepton (wgt) = 307290 (29509.8),  Eff = 0.824535
+                     nMuons (wgt)        = 177104 (17007.7)
+                     nElectrons (wgt)    = 130186 (12502.1)
+    nEvents Pass 0 Veto Leptons (wgt)    = 302520 (29051.7),  Eff = 0.984477
+    nEvents Pass Track Veto (wgt)        = 296988 (28520.5),  Eff = 0.981714
+    nEvents Pass Tau Veto (wgt)          = 295551 (28382.5),  Eff = 0.995161
+    nEvents Pass >=4 Selected Jets (wgt) = 130037 (12487.8),  Eff = 0.439982
+    nEvents Pass >=1 BTagged Jets (wgt)  = 23561 (2262.62),  Eff = 0.181187
+    nEvents Pass Met>200.0 (wgt)         = 3114 (299.045),  Eff = 0.132168
+    nEvents Pass MT>150.0 (wgt)          = 74 (7.1064),  Eff = 0.0237636
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 35 (3.36114),  Eff = 0.472973
+
+    nEvents Pass Baseline (wgt)          = 35 (3.36114)
+                    nMuons (wgt)         = 19 (1.82462)
+                    nElectrons (wgt)     = 16 (1.53652)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 35 (3.36114)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+373293 Events Processed
+------------------------------
+CPU  Time:	4.6
+Real Time:	21.1
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__T_sch_4f_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 259482
+    nEvents Pass >1 Vertex (wgt)         = 259482 (4882.71),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 258997 (4873.2),  Eff = 0.998131
+    nEvents Pass 1 Selected Lepton (wgt) = 165527 (3102.05),  Eff = 0.639108
+                     nMuons (wgt)        = 105203 (1973.76)
+                     nElectrons (wgt)    = 60324 (1128.28)
+    nEvents Pass 0 Veto Leptons (wgt)    = 159883 (2992.02),  Eff = 0.965903
+    nEvents Pass Track Veto (wgt)        = 156894 (2935.81),  Eff = 0.981305
+    nEvents Pass Tau Veto (wgt)          = 153927 (2878.99),  Eff = 0.981089
+    nEvents Pass >=4 Selected Jets (wgt) = 11335 (205.194),  Eff = 0.0736388
+    nEvents Pass >=1 BTagged Jets (wgt)  = 9351 (169.6),  Eff = 0.824967
+    nEvents Pass Met>200.0 (wgt)         = 441 (6.93285),  Eff = 0.0471607
+    nEvents Pass MT>150.0 (wgt)          = 12 (0.120049),  Eff = 0.0272109
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 0 (0),  Eff = 0
+
+    nEvents Pass Baseline (wgt)          = 0 (0)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 0 (0)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+259482 Events Processed
+------------------------------
+CPU  Time:	3.6
+Real Time:	13.0
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__Tbar_tch_4f_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 512704
+    nEvents Pass >1 Vertex (wgt)         = 512704 (39657.6),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 512022 (39604.8),  Eff = 0.99867
+    nEvents Pass 1 Selected Lepton (wgt) = 328305 (25394.4),  Eff = 0.641193
+                     nMuons (wgt)        = 207234 (16029.5)
+                     nElectrons (wgt)    = 121071 (9364.83)
+    nEvents Pass 0 Veto Leptons (wgt)    = 318263 (24617.6),  Eff = 0.969413
+    nEvents Pass Track Veto (wgt)        = 310292 (24001.1),  Eff = 0.974955
+    nEvents Pass Tau Veto (wgt)          = 303947 (23510.3),  Eff = 0.979552
+    nEvents Pass >=4 Selected Jets (wgt) = 16248 (1256.78),  Eff = 0.0534567
+    nEvents Pass >=1 BTagged Jets (wgt)  = 12978 (1003.85),  Eff = 0.798744
+    nEvents Pass Met>200.0 (wgt)         = 284 (21.9674),  Eff = 0.0218832
+    nEvents Pass MT>150.0 (wgt)          = 4 (0.3094),  Eff = 0.0140845
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1 (0.0773499),  Eff = 0.25
+
+    nEvents Pass Baseline (wgt)          = 1 (0.0773499)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 1 (0.0773499)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 1 (0.0773499)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+512704 Events Processed
+------------------------------
+CPU  Time:	6.1
+Real Time:	19.3
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__T_tch_4f_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 943023
+    nEvents Pass >1 Vertex (wgt)         = 943023 (63004.3),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 941802 (62922.7),  Eff = 0.998705
+    nEvents Pass 1 Selected Lepton (wgt) = 603566 (40324.8),  Eff = 0.640863
+                     nMuons (wgt)        = 382117 (25529.6)
+                     nElectrons (wgt)    = 221449 (14795.2)
+    nEvents Pass 0 Veto Leptons (wgt)    = 584854 (39074.7),  Eff = 0.968998
+    nEvents Pass Track Veto (wgt)        = 572157 (38226.4),  Eff = 0.97829
+    nEvents Pass Tau Veto (wgt)          = 561000 (37480.9),  Eff = 0.9805
+    nEvents Pass >=4 Selected Jets (wgt) = 30922 (2065.93),  Eff = 0.0551194
+    nEvents Pass >=1 BTagged Jets (wgt)  = 24765 (1654.57),  Eff = 0.800886
+    nEvents Pass Met>200.0 (wgt)         = 782 (52.2462),  Eff = 0.0315768
+    nEvents Pass MT>150.0 (wgt)          = 12 (0.801731),  Eff = 0.0153453
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1 (0.066811),  Eff = 0.0833333
+
+    nEvents Pass Baseline (wgt)          = 1 (0.066811)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 1 (0.066811)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 1 (0.066811)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+943023 Events Processed
+------------------------------
+CPU  Time:	11.2
+Real Time:	49.4
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__T_tbarW_5f_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 219458
+    nEvents Pass >1 Vertex (wgt)         = 219458 (39062.3),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 201710 (35903.3),  Eff = 0.919128
+    nEvents Pass 1 Selected Lepton (wgt) = 151545 (26974.2),  Eff = 0.751301
+                     nMuons (wgt)        = 90009 (16021.1)
+                     nElectrons (wgt)    = 61536 (10953.1)
+    nEvents Pass 0 Veto Leptons (wgt)    = 137238 (24427.6),  Eff = 0.905592
+    nEvents Pass Track Veto (wgt)        = 128327 (22841.5),  Eff = 0.935069
+    nEvents Pass Tau Veto (wgt)          = 123353 (21956.2),  Eff = 0.96124
+    nEvents Pass >=4 Selected Jets (wgt) = 25574 (4552.03),  Eff = 0.207324
+    nEvents Pass >=1 BTagged Jets (wgt)  = 19103 (3400.23),  Eff = 0.74697
+    nEvents Pass Met>200.0 (wgt)         = 1071 (190.632),  Eff = 0.0560645
+    nEvents Pass MT>150.0 (wgt)          = 55 (9.7897),  Eff = 0.0513539
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 32 (5.69583),  Eff = 0.581818
+
+    nEvents Pass Baseline (wgt)          = 32 (5.69583)
+                    nMuons (wgt)         = 14 (2.49192)
+                    nElectrons (wgt)     = 18 (3.2039)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 5 (0.889973)
+                    n_2lep (wgt)         = 27 (4.80585)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+219458 Events Processed
+------------------------------
+CPU  Time:	3.1
+Real Time:	15.0
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__T_tW_5f_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 218024
+    nEvents Pass >1 Vertex (wgt)         = 218024 (38978.6),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 200263 (35803.3),  Eff = 0.918536
+    nEvents Pass 1 Selected Lepton (wgt) = 150714 (26944.8),  Eff = 0.75258
+                     nMuons (wgt)        = 89669 (16031.1)
+                     nElectrons (wgt)    = 61045 (10913.7)
+    nEvents Pass 0 Veto Leptons (wgt)    = 136739 (24446.4),  Eff = 0.907275
+    nEvents Pass Track Veto (wgt)        = 127883 (22863.1),  Eff = 0.935234
+    nEvents Pass Tau Veto (wgt)          = 123002 (21990.4),  Eff = 0.961832
+    nEvents Pass >=4 Selected Jets (wgt) = 25705 (4595.57),  Eff = 0.20898
+    nEvents Pass >=1 BTagged Jets (wgt)  = 19133 (3420.62),  Eff = 0.74433
+    nEvents Pass Met>200.0 (wgt)         = 1123 (200.771),  Eff = 0.0586944
+    nEvents Pass MT>150.0 (wgt)          = 56 (10.0117),  Eff = 0.0498664
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 36 (6.43612),  Eff = 0.642857
+
+    nEvents Pass Baseline (wgt)          = 36 (6.43612)
+                    nMuons (wgt)         = 21 (3.75441)
+                    nElectrons (wgt)     = 15 (2.68172)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 6 (1.07269)
+                    n_2lep (wgt)         = 30 (5.36344)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+218024 Events Processed
+------------------------------
+CPU  Time:	3.1
+Real Time:	9.0
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WW_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 106087
+    nEvents Pass >1 Vertex (wgt)         = 106087 (63320.7),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 102749 (61328.3),  Eff = 0.968535
+    nEvents Pass 1 Selected Lepton (wgt) = 69631 (41561),  Eff = 0.677681
+                     nMuons (wgt)        = 43149 (25754.6)
+                     nElectrons (wgt)    = 26482 (15806.4)
+    nEvents Pass 0 Veto Leptons (wgt)    = 67220 (40121.9),  Eff = 0.965375
+    nEvents Pass Track Veto (wgt)        = 62927 (37559.5),  Eff = 0.936135
+    nEvents Pass Tau Veto (wgt)          = 61001 (36410),  Eff = 0.969393
+    nEvents Pass >=4 Selected Jets (wgt) = 1971 (1176.44),  Eff = 0.0323109
+    nEvents Pass >=1 BTagged Jets (wgt)  = 309 (184.434),  Eff = 0.156773
+    nEvents Pass Met>200.0 (wgt)         = 20 (11.9375),  Eff = 0.0647249
+    nEvents Pass MT>150.0 (wgt)          = 2 (1.19375),  Eff = 0.1
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1 (0.596875),  Eff = 0.5
+
+    nEvents Pass Baseline (wgt)          = 1 (0.596875)
+                    nMuons (wgt)         = 1 (0.596875)
+                    nElectrons (wgt)     = 0 (0)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 1 (0.596875)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+106087 Events Processed
+------------------------------
+CPU  Time:	1.5
+Real Time:	3.7
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WW_2l2nu_powheg_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 367644
+    nEvents Pass >1 Vertex (wgt)         = 367644 (12103.7),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 285407 (9396.27),  Eff = 0.776313
+    nEvents Pass 1 Selected Lepton (wgt) = 210577 (6932.69),  Eff = 0.737813
+                     nMuons (wgt)        = 127175 (4186.9)
+                     nElectrons (wgt)    = 83402 (2745.79)
+    nEvents Pass 0 Veto Leptons (wgt)    = 163252 (5374.64),  Eff = 0.77526
+    nEvents Pass Track Veto (wgt)        = 130866 (4308.41),  Eff = 0.80162
+    nEvents Pass Tau Veto (wgt)          = 108879 (3584.55),  Eff = 0.831988
+    nEvents Pass >=4 Selected Jets (wgt) = 2153 (70.8818),  Eff = 0.0197742
+    nEvents Pass >=1 BTagged Jets (wgt)  = 300 (9.8767),  Eff = 0.13934
+    nEvents Pass Met>200.0 (wgt)         = 63 (2.07411),  Eff = 0.21
+    nEvents Pass MT>150.0 (wgt)          = 19 (0.625524),  Eff = 0.301587
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 14 (0.460913),  Eff = 0.736842
+
+    nEvents Pass Baseline (wgt)          = 14 (0.460913)
+                    nMuons (wgt)         = 8 (0.263379)
+                    nElectrons (wgt)     = 6 (0.197534)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 14 (0.460913)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+367644 Events Processed
+------------------------------
+CPU  Time:	5.2
+Real Time:	14.4
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WWToLNuQQ_powheg_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 418679
+    nEvents Pass >1 Vertex (wgt)         = 418679 (18469.9),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 418504 (18462.2),  Eff = 0.999582
+    nEvents Pass 1 Selected Lepton (wgt) = 284526 (12551.8),  Eff = 0.679864
+                     nMuons (wgt)        = 176649 (7792.83)
+                     nElectrons (wgt)    = 107877 (4758.97)
+    nEvents Pass 0 Veto Leptons (wgt)    = 282197 (12449),  Eff = 0.991814
+    nEvents Pass Track Veto (wgt)        = 269505 (11889.1),  Eff = 0.955024
+    nEvents Pass Tau Veto (wgt)          = 265325 (11704.7),  Eff = 0.98449
+    nEvents Pass >=4 Selected Jets (wgt) = 15714 (693.219),  Eff = 0.0592255
+    nEvents Pass >=1 BTagged Jets (wgt)  = 2282 (100.67),  Eff = 0.145221
+    nEvents Pass Met>200.0 (wgt)         = 167 (7.36716),  Eff = 0.0731814
+    nEvents Pass MT>150.0 (wgt)          = 5 (0.220574),  Eff = 0.0299401
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 3 (0.132344),  Eff = 0.6
+
+    nEvents Pass Baseline (wgt)          = 3 (0.132344)
+                    nMuons (wgt)         = 1 (0.0441147)
+                    nElectrons (wgt)     = 2 (0.0882295)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 3 (0.132344)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+418679 Events Processed
+------------------------------
+CPU  Time:	5.5
+Real Time:	21.4
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WZ_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 72776
+    nEvents Pass >1 Vertex (wgt)         = 72776 (8377.19),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 64902 (7470.82),  Eff = 0.891805
+    nEvents Pass 1 Selected Lepton (wgt) = 43963 (5060.55),  Eff = 0.677375
+                     nMuons (wgt)        = 26920 (3098.74)
+                     nElectrons (wgt)    = 17043 (1961.81)
+    nEvents Pass 0 Veto Leptons (wgt)    = 40228 (4630.62),  Eff = 0.915042
+    nEvents Pass Track Veto (wgt)        = 38517 (4433.66),  Eff = 0.957467
+    nEvents Pass Tau Veto (wgt)          = 37536 (4320.74),  Eff = 0.974531
+    nEvents Pass >=4 Selected Jets (wgt) = 1463 (168.405),  Eff = 0.0389759
+    nEvents Pass >=1 BTagged Jets (wgt)  = 358 (41.2091),  Eff = 0.244703
+    nEvents Pass Met>200.0 (wgt)         = 26 (2.99284),  Eff = 0.0726257
+    nEvents Pass MT>150.0 (wgt)          = 1 (0.115109),  Eff = 0.0384615
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 1 (0.115109),  Eff = 1
+
+    nEvents Pass Baseline (wgt)          = 1 (0.115109)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 1 (0.115109)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 1 (0.115109)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+72776 Events Processed
+------------------------------
+CPU  Time:	1.3
+Real Time:	6.1
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WZ_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 2186884
+    nEvents Pass >1 Vertex (wgt)         = 2186884 (3390.73),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 1326837 (2071.13),  Eff = 0.606725
+    nEvents Pass 1 Selected Lepton (wgt) = 904051 (1400.93),  Eff = 0.681358
+                     nMuons (wgt)        = 520864 (810.402)
+                     nElectrons (wgt)    = 383187 (590.531)
+    nEvents Pass 0 Veto Leptons (wgt)    = 516881 (808.504),  Eff = 0.571739
+    nEvents Pass Track Veto (wgt)        = 442711 (684.795),  Eff = 0.856505
+    nEvents Pass Tau Veto (wgt)          = 397776 (607.232),  Eff = 0.8985
+    nEvents Pass >=4 Selected Jets (wgt) = 13959 (23.9003),  Eff = 0.0350926
+    nEvents Pass >=1 BTagged Jets (wgt)  = 2071 (3.58072),  Eff = 0.148363
+    nEvents Pass Met>200.0 (wgt)         = 304 (0.505589),  Eff = 0.146789
+    nEvents Pass MT>150.0 (wgt)          = 67 (0.0799983),  Eff = 0.220395
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 34 (0.0575988),  Eff = 0.507463
+
+    nEvents Pass Baseline (wgt)          = 34 (0.0575988)
+                    nMuons (wgt)         = 19 (0.0287994)
+                    nElectrons (wgt)     = 15 (0.0287994)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 34 (0.0575988)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+2186884 Events Processed
+------------------------------
+CPU  Time:	26.7
+Real Time:	90.8
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WZTo3LNu_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 251172
+    nEvents Pass >1 Vertex (wgt)         = 251172 (3137.54),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 153166 (1913.29),  Eff = 0.609805
+    nEvents Pass 1 Selected Lepton (wgt) = 103273 (1290.05),  Eff = 0.674255
+                     nMuons (wgt)        = 59404 (742.052)
+                     nElectrons (wgt)    = 43869 (547.995)
+    nEvents Pass 0 Veto Leptons (wgt)    = 59580 (744.25),  Eff = 0.576917
+    nEvents Pass Track Veto (wgt)        = 50583 (631.863),  Eff = 0.848993
+    nEvents Pass Tau Veto (wgt)          = 44962 (561.648),  Eff = 0.888876
+    nEvents Pass >=4 Selected Jets (wgt) = 1388 (17.3384),  Eff = 0.0308705
+    nEvents Pass >=1 BTagged Jets (wgt)  = 226 (2.8231),  Eff = 0.162824
+    nEvents Pass Met>200.0 (wgt)         = 29 (0.362257),  Eff = 0.128319
+    nEvents Pass MT>150.0 (wgt)          = 7 (0.0874413),  Eff = 0.241379
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 3 (0.0374748),  Eff = 0.428571
+
+    nEvents Pass Baseline (wgt)          = 3 (0.0374748)
+                    nMuons (wgt)         = 1 (0.0124916)
+                    nElectrons (wgt)     = 2 (0.0249832)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 3 (0.0374748)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+251172 Events Processed
+------------------------------
+CPU  Time:	3.3
+Real Time:	12.2
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WZTo2L2Q_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 4584450
+    nEvents Pass >1 Vertex (wgt)         = 4584450 (2117.5),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 2925450 (1356.68),  Eff = 0.638125
+    nEvents Pass 1 Selected Lepton (wgt) = 2047704 (934.586),  Eff = 0.699962
+                     nMuons (wgt)        = 1155755 (529.585)
+                     nElectrons (wgt)    = 891949 (405.001)
+    nEvents Pass 0 Veto Leptons (wgt)    = 1252428 (573.778),  Eff = 0.611626
+    nEvents Pass Track Veto (wgt)        = 1117761 (512.999),  Eff = 0.892475
+    nEvents Pass Tau Veto (wgt)          = 1022182 (468.04),  Eff = 0.914491
+    nEvents Pass >=4 Selected Jets (wgt) = 130802 (57.394),  Eff = 0.127964
+    nEvents Pass >=1 BTagged Jets (wgt)  = 19470 (8.73365),  Eff = 0.148851
+    nEvents Pass Met>200.0 (wgt)         = 625 (0.262608),  Eff = 0.0321007
+    nEvents Pass MT>150.0 (wgt)          = 27 (0.0145418),  Eff = 0.0432
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 7 (0.000855401),  Eff = 0.259259
+
+    nEvents Pass Baseline (wgt)          = 7 (0.000855401)
+                    nMuons (wgt)         = 7 (0.000855401)
+                    nElectrons (wgt)     = 0 (0)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 7 (0.000855401)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+4584450 Events Processed
+------------------------------
+CPU  Time:	50.7
+Real Time:	183.6
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__WZTo1Lnu2Q_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 6164848
+    nEvents Pass >1 Vertex (wgt)         = 6164848 (12846.8),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 6159205 (12835.4),  Eff = 0.999085
+    nEvents Pass 1 Selected Lepton (wgt) = 4315190 (8842.12),  Eff = 0.700608
+                     nMuons (wgt)        = 2635327 (5440.1)
+                     nElectrons (wgt)    = 1679863 (3402.02)
+    nEvents Pass 0 Veto Leptons (wgt)    = 4240625 (8690.93),  Eff = 0.98272
+    nEvents Pass Track Veto (wgt)        = 4096581 (8408.13),  Eff = 0.966032
+    nEvents Pass Tau Veto (wgt)          = 4037472 (8287.62),  Eff = 0.985571
+    nEvents Pass >=4 Selected Jets (wgt) = 467895 (929.029),  Eff = 0.115888
+    nEvents Pass >=1 BTagged Jets (wgt)  = 126795 (254.375),  Eff = 0.27099
+    nEvents Pass Met>200.0 (wgt)         = 10668 (21.4007),  Eff = 0.0841358
+    nEvents Pass MT>150.0 (wgt)          = 351 (0.752578),  Eff = 0.0329021
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 208 (0.412581),  Eff = 0.592593
+
+    nEvents Pass Baseline (wgt)          = 208 (0.412581)
+                    nMuons (wgt)         = 102 (0.137527)
+                    nElectrons (wgt)     = 106 (0.275054)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 208 (0.412581)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+6164848 Events Processed
+------------------------------
+CPU  Time:	74.1
+Real Time:	211.7
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__ZZ_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 35859
+    nEvents Pass >1 Vertex (wgt)         = 35859 (1857.44),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 22214 (1150.65),  Eff = 0.619482
+    nEvents Pass 1 Selected Lepton (wgt) = 15405 (797.956),  Eff = 0.693482
+                     nMuons (wgt)        = 8570 (443.913)
+                     nElectrons (wgt)    = 6835 (354.043)
+    nEvents Pass 0 Veto Leptons (wgt)    = 9386 (486.181),  Eff = 0.609283
+    nEvents Pass Track Veto (wgt)        = 8345 (432.258),  Eff = 0.88909
+    nEvents Pass Tau Veto (wgt)          = 7479 (387.401),  Eff = 0.896225
+    nEvents Pass >=4 Selected Jets (wgt) = 321 (16.6273),  Eff = 0.0429202
+    nEvents Pass >=1 BTagged Jets (wgt)  = 94 (4.86906),  Eff = 0.292835
+    nEvents Pass Met>200.0 (wgt)         = 2 (0.103597),  Eff = 0.0212766
+    nEvents Pass MT>150.0 (wgt)          = 0 (0),  Eff = 0
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 0 (0),  Eff = -nan
+
+    nEvents Pass Baseline (wgt)          = 0 (0)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 0 (0)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+35859 Events Processed
+------------------------------
+CPU  Time:	0.6
+Real Time:	1.4
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__ZZTo4L_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 303813
+    nEvents Pass >1 Vertex (wgt)         = 303813 (471.877),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 172406 (267.778),  Eff = 0.567474
+    nEvents Pass 1 Selected Lepton (wgt) = 105810 (164.342),  Eff = 0.613726
+                     nMuons (wgt)        = 59411 (92.2761)
+                     nElectrons (wgt)    = 46399 (72.0661)
+    nEvents Pass 0 Veto Leptons (wgt)    = 44618 (69.2999),  Eff = 0.42168
+    nEvents Pass Track Veto (wgt)        = 36583 (56.82),  Eff = 0.819916
+    nEvents Pass Tau Veto (wgt)          = 30423 (47.2524),  Eff = 0.831616
+    nEvents Pass >=4 Selected Jets (wgt) = 532 (0.826293),  Eff = 0.0174868
+    nEvents Pass >=1 BTagged Jets (wgt)  = 70 (0.108723),  Eff = 0.131579
+    nEvents Pass Met>200.0 (wgt)         = 5 (0.00776591),  Eff = 0.0714286
+    nEvents Pass MT>150.0 (wgt)          = 0 (0),  Eff = 0
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 0 (0),  Eff = -nan
+
+    nEvents Pass Baseline (wgt)          = 0 (0)
+                    nMuons (wgt)         = 0 (0)
+                    nElectrons (wgt)     = 0 (0)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+303813 Events Processed
+------------------------------
+CPU  Time:	3.7
+Real Time:	7.9
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__ZZTo2L2Q_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 2975709
+    nEvents Pass >1 Vertex (wgt)         = 2975709 (2581.15),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 1864859 (1621.98),  Eff = 0.626694
+    nEvents Pass 1 Selected Lepton (wgt) = 1303987 (1110.14),  Eff = 0.699242
+                     nMuons (wgt)        = 733946 (630.879)
+                     nElectrons (wgt)    = 570041 (479.264)
+    nEvents Pass 0 Veto Leptons (wgt)    = 784711 (671.95),  Eff = 0.601778
+    nEvents Pass Track Veto (wgt)        = 702763 (603.484),  Eff = 0.895569
+    nEvents Pass Tau Veto (wgt)          = 639612 (548.441),  Eff = 0.910139
+    nEvents Pass >=4 Selected Jets (wgt) = 56310 (40.7875),  Eff = 0.0880377
+    nEvents Pass >=1 BTagged Jets (wgt)  = 15630 (11.3297),  Eff = 0.277571
+    nEvents Pass Met>200.0 (wgt)         = 381 (0.256115),  Eff = 0.0243762
+    nEvents Pass MT>150.0 (wgt)          = 22 (0.0151547),  Eff = 0.0577428
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 7 (-0.00151547),  Eff = 0.318182
+
+    nEvents Pass Baseline (wgt)          = 7 (-0.00151547)
+                    nMuons (wgt)         = 4 (0)
+                    nElectrons (wgt)     = 3 (-0.00151547)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 7 (-0.00151547)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+2975709 Events Processed
+------------------------------
+CPU  Time:	33.2
+Real Time:	98.8
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__ZZTo2L2Nu_powheg_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 1389178
+    nEvents Pass >1 Vertex (wgt)         = 1389178 (617.613),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 826373 (367.396),  Eff = 0.594865
+    nEvents Pass 1 Selected Lepton (wgt) = 607307 (270.002),  Eff = 0.734907
+                     nMuons (wgt)        = 289542 (128.727)
+                     nElectrons (wgt)    = 317765 (141.275)
+    nEvents Pass 0 Veto Leptons (wgt)    = 371689 (165.249),  Eff = 0.612028
+    nEvents Pass Track Veto (wgt)        = 323037 (143.619),  Eff = 0.869106
+    nEvents Pass Tau Veto (wgt)          = 262873 (116.87),  Eff = 0.813755
+    nEvents Pass >=4 Selected Jets (wgt) = 4049 (1.80014),  Eff = 0.0154029
+    nEvents Pass >=1 BTagged Jets (wgt)  = 638 (0.283648),  Eff = 0.15757
+    nEvents Pass Met>200.0 (wgt)         = 171 (0.0760247),  Eff = 0.268025
+    nEvents Pass MT>150.0 (wgt)          = 117 (0.0520169),  Eff = 0.684211
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 96 (0.0426805),  Eff = 0.820513
+
+    nEvents Pass Baseline (wgt)          = 96 (0.0426805)
+                    nMuons (wgt)         = 46 (0.0204511)
+                    nElectrons (wgt)     = 50 (0.0222294)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 96 (0.0426805)
+=====================================================
+
+1389178 Events Processed
+------------------------------
+CPU  Time:	15.6
+Real Time:	39.0
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__ZZTo2Q2Nu_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 17752
+    nEvents Pass >1 Vertex (wgt)         = 17752 (4.96969),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 17673 (4.94281),  Eff = 0.99555
+    nEvents Pass 1 Selected Lepton (wgt) = 7593 (2.05586),  Eff = 0.429638
+                     nMuons (wgt)        = 2357 (0.622397)
+                     nElectrons (wgt)    = 5236 (1.43346)
+    nEvents Pass 0 Veto Leptons (wgt)    = 7261 (1.95678),  Eff = 0.956276
+    nEvents Pass Track Veto (wgt)        = 7086 (1.91515),  Eff = 0.975899
+    nEvents Pass Tau Veto (wgt)          = 6999 (1.88933),  Eff = 0.987722
+    nEvents Pass >=4 Selected Jets (wgt) = 427 (0.137549),  Eff = 0.0610087
+    nEvents Pass >=1 BTagged Jets (wgt)  = 133 (0.0426877),  Eff = 0.311475
+    nEvents Pass Met>200.0 (wgt)         = 31 (0.00790513),  Eff = 0.233083
+    nEvents Pass MT>150.0 (wgt)          = 23 (0.00474308),  Eff = 0.741935
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 18 (0.00421607),  Eff = 0.782609
+
+    nEvents Pass Baseline (wgt)          = 18 (0.00421607)
+                    nMuons (wgt)         = 5 (0.00158103)
+                    nElectrons (wgt)     = 13 (0.00263504)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 18 (0.00421607)
+=====================================================
+
+17752 Events Processed
+------------------------------
+CPU  Time:	0.7
+Real Time:	1.9
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__TTWJetsToLNu_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 127843
+    nEvents Pass >1 Vertex (wgt)         = 127843 (518.916),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 97802 (394.833),  Eff = 0.765016
+    nEvents Pass 1 Selected Lepton (wgt) = 77064 (311.414),  Eff = 0.787959
+                     nMuons (wgt)        = 45078 (182.415)
+                     nElectrons (wgt)    = 31986 (128.999)
+    nEvents Pass 0 Veto Leptons (wgt)    = 59721 (241.895),  Eff = 0.774953
+    nEvents Pass Track Veto (wgt)        = 54477 (220.545),  Eff = 0.912192
+    nEvents Pass Tau Veto (wgt)          = 52056 (210.515),  Eff = 0.955559
+    nEvents Pass >=4 Selected Jets (wgt) = 37698 (142.703),  Eff = 0.724182
+    nEvents Pass >=1 BTagged Jets (wgt)  = 29425 (111.968),  Eff = 0.780545
+    nEvents Pass Met>200.0 (wgt)         = 3037 (10.4392),  Eff = 0.103212
+    nEvents Pass MT>150.0 (wgt)          = 836 (3.02084),  Eff = 0.275272
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 526 (1.88802),  Eff = 0.629187
+
+    nEvents Pass Baseline (wgt)          = 526 (1.88802)
+                    nMuons (wgt)         = 308 (1.02268)
+                    nElectrons (wgt)     = 218 (0.865345)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 38 (0.0944012)
+                    n_2lep (wgt)         = 488 (1.79362)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+127843 Events Processed
+------------------------------
+CPU  Time:	2.2
+Real Time:	5.1
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__TTZToQQ_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 180946
+    nEvents Pass >1 Vertex (wgt)         = 180946 (635.538),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 164958 (579.824),  Eff = 0.911642
+    nEvents Pass 1 Selected Lepton (wgt) = 125453 (439.809),  Eff = 0.760515
+                     nMuons (wgt)        = 74072 (260.631)
+                     nElectrons (wgt)    = 51381 (179.178)
+    nEvents Pass 0 Veto Leptons (wgt)    = 111216 (389.981),  Eff = 0.886515
+    nEvents Pass Track Veto (wgt)        = 102672 (359.939),  Eff = 0.923177
+    nEvents Pass Tau Veto (wgt)          = 98730 (346.025),  Eff = 0.961606
+    nEvents Pass >=4 Selected Jets (wgt) = 83965 (281.275),  Eff = 0.850451
+    nEvents Pass >=1 BTagged Jets (wgt)  = 67761 (228.154),  Eff = 0.807015
+    nEvents Pass Met>200.0 (wgt)         = 4185 (12.8657),  Eff = 0.0617612
+    nEvents Pass MT>150.0 (wgt)          = 449 (1.40943),  Eff = 0.107288
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 271 (0.776315),  Eff = 0.603563
+
+    nEvents Pass Baseline (wgt)          = 271 (0.776315)
+                    nMuons (wgt)         = 150 (0.33163)
+                    nElectrons (wgt)     = 121 (0.444685)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 9 (0.0226111)
+                    n_2lep (wgt)         = 262 (0.753704)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+180946 Events Processed
+------------------------------
+CPU  Time:	2.9
+Real Time:	7.6
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__TTZToLLNuNu_M-10_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 152354
+    nEvents Pass >1 Vertex (wgt)         = 152354 (479.046),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 98430 (312.191),  Eff = 0.646061
+    nEvents Pass 1 Selected Lepton (wgt) = 76387 (239.769),  Eff = 0.776054
+                     nMuons (wgt)        = 43163 (135.938)
+                     nElectrons (wgt)    = 33224 (103.831)
+    nEvents Pass 0 Veto Leptons (wgt)    = 56540 (177.586),  Eff = 0.740178
+    nEvents Pass Track Veto (wgt)        = 50820 (159.322),  Eff = 0.898833
+    nEvents Pass Tau Veto (wgt)          = 47924 (150.668),  Eff = 0.943015
+    nEvents Pass >=4 Selected Jets (wgt) = 29262 (79.4286),  Eff = 0.610592
+    nEvents Pass >=1 BTagged Jets (wgt)  = 23122 (64.035),  Eff = 0.790172
+    nEvents Pass Met>200.0 (wgt)         = 5378 (14.2179),  Eff = 0.232592
+    nEvents Pass MT>150.0 (wgt)          = 3181 (8.31881),  Eff = 0.591484
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 2672 (7.20462),  Eff = 0.839987
+
+    nEvents Pass Baseline (wgt)          = 2672 (7.20462)
+                    nMuons (wgt)         = 1515 (3.93042)
+                    nElectrons (wgt)     = 1157 (3.27421)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 61 (0.170888)
+                    n_ZtoNuNu (wgt)      = 2611 (7.03373)
+=====================================================
+
+152354 Events Processed
+------------------------------
+CPU  Time:	2.5
+Real Time:	7.8
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__tZq_ll_4f_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 1238026
+    nEvents Pass >1 Vertex (wgt)         = 1238026 (157.982),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 643414 (82.3066),  Eff = 0.51971
+    nEvents Pass 1 Selected Lepton (wgt) = 485495 (61.9599),  Eff = 0.754561
+                     nMuons (wgt)        = 261831 (33.4848)
+                     nElectrons (wgt)    = 223664 (28.4751)
+    nEvents Pass 0 Veto Leptons (wgt)    = 256577 (33.1319),  Eff = 0.528485
+    nEvents Pass Track Veto (wgt)        = 216638 (27.9394),  Eff = 0.844339
+    nEvents Pass Tau Veto (wgt)          = 190736 (24.5468),  Eff = 0.880436
+    nEvents Pass >=4 Selected Jets (wgt) = 64939 (7.58392),  Eff = 0.340465
+    nEvents Pass >=1 BTagged Jets (wgt)  = 46777 (5.65136),  Eff = 0.720322
+    nEvents Pass Met>200.0 (wgt)         = 1260 (0.196366),  Eff = 0.0269363
+    nEvents Pass MT>150.0 (wgt)          = 294 (0.0388844),  Eff = 0.233333
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 123 (0.0218725),  Eff = 0.418367
+
+    nEvents Pass Baseline (wgt)          = 123 (0.0218725)
+                    nMuons (wgt)         = 63 (0.0131235)
+                    nElectrons (wgt)     = 60 (0.00874899)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 123 (0.0218725)
+                    n_ZtoNuNu (wgt)      = 0 (0)
+=====================================================
+
+1238026 Events Processed
+------------------------------
+CPU  Time:	16.7
+Real Time:	59.5
+
+=========================================
+  WELCOME TO STOP BABY ANALYZER! 
+
+     Output written to: Histos/histos__tZq_nunu_4f_amcnlo_pythia8_25ns.root
+=========================================
+
+=====================================================
+Selection Cutflow
+    nEvents Processed                    = 123732
+    nEvents Pass >1 Vertex (wgt)         = 123732 (85.8536),  Eff = 1
+    nEvents Pass 1 Good Lepton (wgt)     = 123544 (85.7204),  Eff = 0.998481
+    nEvents Pass 1 Selected Lepton (wgt) = 85219 (58.6341),  Eff = 0.689787
+                     nMuons (wgt)        = 52169 (36.2438)
+                     nElectrons (wgt)    = 33050 (22.3903)
+    nEvents Pass 0 Veto Leptons (wgt)    = 82302 (56.7349),  Eff = 0.965771
+    nEvents Pass Track Veto (wgt)        = 80216 (55.1101),  Eff = 0.974654
+    nEvents Pass Tau Veto (wgt)          = 78932 (54.2418),  Eff = 0.983993
+    nEvents Pass >=4 Selected Jets (wgt) = 9251 (4.92502),  Eff = 0.117202
+    nEvents Pass >=1 BTagged Jets (wgt)  = 7011 (3.85425),  Eff = 0.757864
+    nEvents Pass Met>200.0 (wgt)         = 1527 (0.833711),  Eff = 0.217801
+    nEvents Pass MT>150.0 (wgt)          = 797 (0.396878),  Eff = 0.521938
+    nEvents Pass minDeltaPhi>0.8 (wgt)   = 628 (0.308979),  Eff = 0.787955
+
+    nEvents Pass Baseline (wgt)          = 628 (0.308979)
+                    nMuons (wgt)         = 365 (0.16248)
+                    nElectrons (wgt)     = 263 (0.146499)
+
+                    n_0lep (wgt)         = 0 (0)
+                    n_1lep (wgt)         = 0 (0)
+                    n_2lep (wgt)         = 0 (0)
+                    n_ZtoNuNu (wgt)      = 628 (0.308979)
+=====================================================
+
+123732 Events Processed
+------------------------------
+CPU  Time:	2.0
+Real Time:	4.8
+

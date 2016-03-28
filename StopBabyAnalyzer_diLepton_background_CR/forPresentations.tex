@@ -1,0 +1,68 @@
+\documentclass{article}
+\usepackage[landscape]{geometry}
+\usepackage{chngpage}
+\usepackage{mathtools}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{slashed}
+
+\newcommand{\dataSR}{\ensuremath{N^{Data,~Signal~Region}_{\ell\ell}}}
+\newcommand{\dataCR}{\ensuremath{N^{Data,~Control~Region}_{\ell\ell}}}
+
+\newcommand{\mcSR}{\ensuremath{M^{MC,~Signal~Region}_{\ell\ell}}}
+\newcommand{\mcCR}{\ensuremath{M^{MC,~Control~Region}_{\ell\ell}}}
+
+\newcommand{\nSR}{\ensuremath{N^{Signal~Region}_{\ell\ell}}}
+\newcommand{\nCR}{\ensuremath{N^{Control~Region}_{\ell\ell}}}
+
+\newcommand{\nSRElEl}{\ensuremath{N^{Signal~Region}_{\ell\slashed{\ell}}}}
+\newcommand{\nSRElTau}{\ensuremath{N^{Signal~Region}_{\ell\slashed{\tau}}}}
+
+
+\begin{document}
+
+\begin{equation}\label{eq:Data_MC_Ratio_Equivalence}
+\frac{\dataSR}{\dataCR} = \frac{\mcSR}{\mcCR}
+\end{equation}
+\\
+\\
+\\
+\\
+\begin{equation}\label{eq:SignalYield}
+\dataSR = \dataCR\times\frac{\mcSR}{\mcCR}
+\end{equation}
+\\
+\\
+\\
+\\
+\begin{equation}\label{eq:SR_Composition}
+\nSR = \nSRElTau + \nSRElEl
+\end{equation}
+\\
+\\
+\\
+\\
+\begin{equation}\label{eq:N_SR_LepLostTau}
+\nSRElTau = (\sigma^{+1j}_{2\ell})\ast\epsilon_{reco~\ell}\ast(1-\epsilon_{reco~\tau})\ast\epsilon_{selection}\ast\epsilon_{reco~\tau~as~jet}
+\end{equation}
+\\
+\\
+\\
+\\
+\begin{equation}\label{eq:N_SR_LepLostLep}
+\nSRElEl = (\sigma^{+2j}_{2\ell})\ast\epsilon_{reco~\ell}\ast(1-\epsilon_{reco~\ell})\ast\epsilon_{selection}
+\end{equation}
+\\
+\\
+\\
+\\
+\begin{equation}\label{eq:N_CR_diLep}
+\nCR = (\sigma^{+2j}_{2\ell})\ast\epsilon^{2}_{reco~\ell}\ast\epsilon_{selection}
+\end{equation}
+
+
+\begin{equation}\label{eq:SR_est}
+N_{2\ell,estimate}^{SR} = N_{Incl}^{CR}\ast\left[  \frac{ M_{2\ell}^{SR} }{ M_{Incl}^{CR} } \right] \ast \left[ \frac{ M_{MET,nJet~bin}^{SR} }{ M_{2\ell}^{SR} } \right]
+\end{equation}
+
+\end{document}
